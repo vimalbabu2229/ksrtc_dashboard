@@ -1,0 +1,3463 @@
+{
+    "success_legs": 50,
+    "missing_routes": 54,
+    "number_of_trips": 38,
+    "trips_details": [
+        {
+            "trip_number": 1,
+            "trip": [
+                {
+                    "Sl No.": 4,
+                    "Departure Time": 16200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 16800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 129,
+                    "Departure Time": 17400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 21300,
+                    "KM": 33.7,
+                    "Running Time": 3900,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 317,
+                    "Departure Time": 21900,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 26400,
+                    "KM": 33.7,
+                    "Running Time": 4500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 163,
+                    "Departure Time": 27000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 31800,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 360,
+                    "Departure Time": 33600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 36600,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 212,
+                    "Departure Time": 37500,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 41700,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 432,
+                    "Departure Time": 42000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 48600,
+                    "KM": 40.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 88,
+                    "Departure Time": 48900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 49500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:30:00",
+            "spread_over": "09:15:00"
+        },
+        {
+            "trip_number": 2,
+            "trip": [
+                {
+                    "Sl No.": 623,
+                    "Departure Time": 18600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KRKM-MYL-KTDA",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 27000,
+                    "KM": 57.0,
+                    "Running Time": 8400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 599,
+                    "Departure Time": 27300,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "AYRA",
+                    "Arrival Place": "CHVLA",
+                    "Arrival Time": 32700,
+                    "KM": 37.0,
+                    "Running Time": 5400,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 596,
+                    "Departure Time": 34500,
+                    "Departure Place": "CHVLA",
+                    "Route of Operation": "AYRA",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 41400,
+                    "KM": 44.0,
+                    "Running Time": 6900,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 407,
+                    "Departure Time": 42600,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 48600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 73,
+                    "Departure Time": 49200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 49800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:50:00",
+            "spread_over": "08:40:00"
+        },
+        {
+            "trip_number": 3,
+            "trip": [
+                {
+                    "Sl No.": 7,
+                    "Departure Time": 18900,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 19500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 135,
+                    "Departure Time": 19800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 25800,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 327,
+                    "Departure Time": 26400,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 33600,
+                    "KM": 40.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 206,
+                    "Departure Time": 35400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 40200,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 398,
+                    "Departure Time": 40800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 45600,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 68,
+                    "Departure Time": 45900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 46500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 53,
+                    "Departure Time": 46800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 47400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 74,
+                    "Departure Time": 47700,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 48000,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:35:00",
+            "spread_over": "08:05:00"
+        },
+        {
+            "trip_number": 4,
+            "trip": [
+                {
+                    "Sl No.": 8,
+                    "Departure Time": 19200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 19800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 137,
+                    "Departure Time": 20400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 25200,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 584,
+                    "Departure Time": 25500,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "DVPM-ALMP",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 31200,
+                    "KM": 38.5,
+                    "Running Time": 5700,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 511,
+                    "Departure Time": 32400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 34800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 557,
+                    "Departure Time": 37200,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 39600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 525,
+                    "Departure Time": 40200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 42600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 577,
+                    "Departure Time": 43200,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 46800,
+                    "KM": 20.5,
+                    "Running Time": 3600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 61,
+                    "Departure Time": 48000,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 48600,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 87,
+                    "Departure Time": 50100,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 50700,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 64,
+                    "Departure Time": 51900,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 52200,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 89,
+                    "Departure Time": 52500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 52800,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:15:00",
+            "spread_over": "09:20:00"
+        },
+        {
+            "trip_number": 5,
+            "trip": [
+                {
+                    "Sl No.": 619,
+                    "Departure Time": 19200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KULPM",
+                    "Arrival Place": "URB",
+                    "Arrival Time": 20700,
+                    "KM": 9.0,
+                    "Running Time": 1500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 620,
+                    "Departure Time": 21300,
+                    "Departure Place": "URB",
+                    "Route of Operation": "KLPM-KLKV-NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 28200,
+                    "KM": 48.0,
+                    "Running Time": 6900,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 674,
+                    "Departure Time": 28800,
+                    "Departure Place": "MC",
+                    "Route of Operation": "KLPM",
+                    "Arrival Place": "URB",
+                    "Arrival Time": 36000,
+                    "KM": 48.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 675,
+                    "Departure Time": 37800,
+                    "Departure Place": "URB",
+                    "Route of Operation": "KLPM",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 44400,
+                    "KM": 42.7,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 470,
+                    "Departure Time": 45600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 50400,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 81,
+                    "Departure Time": 51000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 51600,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:10:00",
+            "spread_over": "09:00:00"
+        },
+        {
+            "trip_number": 6,
+            "trip": [
+                {
+                    "Sl No.": 138,
+                    "Departure Time": 19200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "ALMP-DVPM",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 24900,
+                    "KM": 38.5,
+                    "Running Time": 5700,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 663,
+                    "Departure Time": 25200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "AVPM-PKDA",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 33000,
+                    "KM": 50.0,
+                    "Running Time": 7800,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 512,
+                    "Departure Time": 35400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 37800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 558,
+                    "Departure Time": 38400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 40800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 518,
+                    "Departure Time": 41400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 43800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 549,
+                    "Departure Time": 44400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 46800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 69,
+                    "Departure Time": 47100,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 47700,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:15:00",
+            "spread_over": "07:55:00"
+        },
+        {
+            "trip_number": 7,
+            "trip": [
+                {
+                    "Sl No.": 585,
+                    "Departure Time": 19800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "AVPM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 28800,
+                    "KM": 58.0,
+                    "Running Time": 9000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 341,
+                    "Departure Time": 29400,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 33000,
+                    "KM": 27.7,
+                    "Running Time": 3600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 203,
+                    "Departure Time": 34800,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 37800,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 385,
+                    "Departure Time": 38400,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 43200,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 67,
+                    "Departure Time": 43500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 44100,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 43,
+                    "Departure Time": 44700,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 45300,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 523,
+                    "Departure Time": 46200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 48600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 568,
+                    "Departure Time": 50100,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 52500,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 79,
+                    "Departure Time": 52800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 53400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:10:00",
+            "spread_over": "09:20:00"
+        },
+        {
+            "trip_number": 8,
+            "trip": [
+                {
+                    "Sl No.": 598,
+                    "Departure Time": 19800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "AYRA",
+                    "Arrival Place": "CHVLA",
+                    "Arrival Time": 20700,
+                    "KM": 6.0,
+                    "Running Time": 900,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 594,
+                    "Departure Time": 21300,
+                    "Departure Place": "CHVLA",
+                    "Route of Operation": "AYRA",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 26700,
+                    "KM": 37.0,
+                    "Running Time": 5400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 330,
+                    "Departure Time": 27000,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 30000,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 185,
+                    "Departure Time": 30600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 33900,
+                    "KM": 20.7,
+                    "Running Time": 3300,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 365,
+                    "Departure Time": 35700,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 39900,
+                    "KM": 33.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 678,
+                    "Departure Time": 40500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-TVM-NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 53100,
+                    "KM": 81.5,
+                    "Running Time": 12600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:45:00",
+            "spread_over": "09:15:00"
+        },
+        {
+            "trip_number": 9,
+            "trip": [
+                {
+                    "Sl No.": 13,
+                    "Departure Time": 19800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 20400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 140,
+                    "Departure Time": 21600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 27600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 657,
+                    "Departure Time": 28200,
+                    "Departure Place": "MC",
+                    "Route of Operation": "KNMLA-VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36600,
+                    "KM": 55.0,
+                    "Running Time": 8400,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 725,
+                    "Departure Time": 38700,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 41400,
+                    "KM": 17.0,
+                    "Running Time": 2700,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 562,
+                    "Departure Time": 42000,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 44400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 522,
+                    "Departure Time": 45000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 47400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 566,
+                    "Departure Time": 48000,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 50400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:35:00",
+            "spread_over": "08:30:00"
+        },
+        {
+            "trip_number": 10,
+            "trip": [
+                {
+                    "Sl No.": 9,
+                    "Departure Time": 19800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 20400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 144,
+                    "Departure Time": 22200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 28200,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 336,
+                    "Departure Time": 29400,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36000,
+                    "KM": 40.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 191,
+                    "Departure Time": 37800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 42600,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 660,
+                    "Departure Time": 43800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 51000,
+                    "KM": 45.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 532,
+                    "Departure Time": 51300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 54000,
+                    "KM": 17.0,
+                    "Running Time": 2700,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 569,
+                    "Departure Time": 54600,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 57600,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:50:00",
+            "spread_over": "10:30:00"
+        },
+        {
+            "trip_number": 11,
+            "trip": [
+                {
+                    "Sl No.": 502,
+                    "Departure Time": 19800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 22800,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 543,
+                    "Departure Time": 23400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 25800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 507,
+                    "Departure Time": 28200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 30600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 551,
+                    "Departure Time": 32400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 34800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 695,
+                    "Departure Time": 36300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS-TVM-NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 48900,
+                    "KM": 81.5,
+                    "Running Time": 12600,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 60,
+                    "Departure Time": 51000,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 51600,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 78,
+                    "Departure Time": 52800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 53400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 65,
+                    "Departure Time": 55200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 55800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 534,
+                    "Departure Time": 57000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 59400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 581,
+                    "Departure Time": 60000,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 63000,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:40:00",
+            "spread_over": "12:00:00"
+        },
+        {
+            "trip_number": 12,
+            "trip": [
+                {
+                    "Sl No.": 679,
+                    "Departure Time": 20400,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-PVR-VZM-BYPASS",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 28200,
+                    "KM": 48.5,
+                    "Running Time": 7800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 680,
+                    "Departure Time": 28800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 33900,
+                    "KM": 33.7,
+                    "Running Time": 5100,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 514,
+                    "Departure Time": 36000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 38400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 561,
+                    "Departure Time": 39900,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 42300,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 519,
+                    "Departure Time": 42900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 45300,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 563,
+                    "Departure Time": 45900,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 49200,
+                    "KM": 20.5,
+                    "Running Time": 3300,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 58,
+                    "Departure Time": 50100,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 50700,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 85,
+                    "Departure Time": 51300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 51600,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:25:00",
+            "spread_over": "08:40:00"
+        },
+        {
+            "trip_number": 13,
+            "trip": [
+                {
+                    "Sl No.": 611,
+                    "Departure Time": 21600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "UDA",
+                    "Arrival Place": "KDGRA",
+                    "Arrival Time": 22800,
+                    "KM": 8.0,
+                    "Running Time": 1200,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 614,
+                    "Departure Time": 23400,
+                    "Departure Place": "KDGRA",
+                    "Route of Operation": "UDA",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 28200,
+                    "KM": 31.0,
+                    "Running Time": 4800,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 342,
+                    "Departure Time": 29400,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 32400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 200,
+                    "Departure Time": 33600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 36600,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 378,
+                    "Departure Time": 37200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 40200,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 225,
+                    "Departure Time": 42600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 46800,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 416,
+                    "Departure Time": 48300,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 54300,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 533,
+                    "Departure Time": 55800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 58200,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 574,
+                    "Departure Time": 58800,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 61200,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 96,
+                    "Departure Time": 61500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 61800,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "09:00:00",
+            "spread_over": "11:10:00"
+        },
+        {
+            "trip_number": 14,
+            "trip": [
+                {
+                    "Sl No.": 18,
+                    "Departure Time": 21960,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 22560,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 540
+                },
+                {
+                    "Sl No.": 147,
+                    "Departure Time": 23100,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 28800,
+                    "KM": 40.0,
+                    "Running Time": 5700,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 351,
+                    "Departure Time": 30300,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36300,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 180,
+                    "Departure Time": 38400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 44400,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 347,
+                    "Departure Time": 45000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 51000,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 530,
+                    "Departure Time": 51600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 54000,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 576,
+                    "Departure Time": 54600,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 57000,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:44:00",
+            "spread_over": "09:44:00"
+        },
+        {
+            "trip_number": 15,
+            "trip": [
+                {
+                    "Sl No.": 16,
+                    "Departure Time": 22200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 22800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 151,
+                    "Departure Time": 24000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 28800,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 346,
+                    "Departure Time": 30000,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 33000,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 125,
+                    "Departure Time": 34500,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 37200,
+                    "KM": 20.7,
+                    "Running Time": 2700,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 316,
+                    "Departure Time": 37800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 42300,
+                    "KM": 33.7,
+                    "Running Time": 4500,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 520,
+                    "Departure Time": 44400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 46800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 565,
+                    "Departure Time": 47400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 50400,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 527,
+                    "Departure Time": 52200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 54600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 571,
+                    "Departure Time": 55200,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 57600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 636,
+                    "Departure Time": 58200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PZKNU",
+                    "Arrival Place": "VLKA",
+                    "Arrival Time": 60000,
+                    "KM": 13.0,
+                    "Running Time": 1800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 640,
+                    "Departure Time": 60600,
+                    "Departure Place": "VLKA",
+                    "Route of Operation": "PZKNU",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 62100,
+                    "KM": 11.0,
+                    "Running Time": 1500,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:55:00",
+            "spread_over": "11:05:00"
+        },
+        {
+            "trip_number": 16,
+            "trip": [
+                {
+                    "Sl No.": 10,
+                    "Departure Time": 23400,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 24000,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 505,
+                    "Departure Time": 25200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 27600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 548,
+                    "Departure Time": 29400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 31800,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 198,
+                    "Departure Time": 33000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 37800,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 395,
+                    "Departure Time": 40200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 45600,
+                    "KM": 33.7,
+                    "Running Time": 5400,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 71,
+                    "Departure Time": 47400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 47700,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 59,
+                    "Departure Time": 48600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 48900,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 243,
+                    "Departure Time": 49500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 55500,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 613,
+                    "Departure Time": 56100,
+                    "Departure Place": "MC",
+                    "Route of Operation": "UDA",
+                    "Arrival Place": "KDGRA",
+                    "Arrival Time": 62100,
+                    "KM": 38.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 642,
+                    "Departure Time": 62700,
+                    "Departure Place": "KDGRA",
+                    "Route of Operation": "UDA",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 63900,
+                    "KM": 8.0,
+                    "Running Time": 1200,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:40:00",
+            "spread_over": "11:15:00"
+        },
+        {
+            "trip_number": 17,
+            "trip": [
+                {
+                    "Sl No.": 33,
+                    "Departure Time": 25800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 26400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 165,
+                    "Departure Time": 27600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 33600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 367,
+                    "Departure Time": 35700,
+                    "Departure Place": "MC",
+                    "Route of Operation": "KNMLA",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 40500,
+                    "KM": 29.5,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 221,
+                    "Departure Time": 40800,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 43800,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 409,
+                    "Departure Time": 45600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 48600,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 242,
+                    "Departure Time": 49500,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 52500,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 427,
+                    "Departure Time": 53100,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 57900,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 537,
+                    "Departure Time": 58500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 60900,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 575,
+                    "Departure Time": 61500,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 63900,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:55:00",
+            "spread_over": "10:35:00"
+        },
+        {
+            "trip_number": 18,
+            "trip": [
+                {
+                    "Sl No.": 36,
+                    "Departure Time": 26700,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 27300,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 174,
+                    "Departure Time": 28800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 36000,
+                    "KM": 40.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 374,
+                    "Departure Time": 36600,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 42000,
+                    "KM": 40.0,
+                    "Running Time": 5400,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 647,
+                    "Departure Time": 44400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM-MJ",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 50400,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 425,
+                    "Departure Time": 51600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 57600,
+                    "KM": 33.7,
+                    "Running Time": 6000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 539,
+                    "Departure Time": 57900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 60300,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 554,
+                    "Departure Time": 60900,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 63900,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:55:00",
+            "spread_over": "10:20:00"
+        },
+        {
+            "trip_number": 19,
+            "trip": [
+                {
+                    "Sl No.": 592,
+                    "Departure Time": 28200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "PDTM-AVKRA",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 36000,
+                    "KM": 51.0,
+                    "Running Time": 7800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 372,
+                    "Departure Time": 36300,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 39600,
+                    "KM": 20.7,
+                    "Running Time": 3300,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 223,
+                    "Departure Time": 42000,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 45000,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 345,
+                    "Departure Time": 47100,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 49800,
+                    "KM": 20.7,
+                    "Running Time": 2700,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 590,
+                    "Departure Time": 50400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "AVPM-PKDA",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 54900,
+                    "KM": 30.0,
+                    "Running Time": 4500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 588,
+                    "Departure Time": 55500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PKDA-AVPM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 60000,
+                    "KM": 30.0,
+                    "Running Time": 4500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 591,
+                    "Departure Time": 60600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "AVPM-PKDA",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 65100,
+                    "KM": 30.0,
+                    "Running Time": 4500,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "09:00:00",
+            "spread_over": "10:15:00"
+        },
+        {
+            "trip_number": 20,
+            "trip": [
+                {
+                    "Sl No.": 42,
+                    "Departure Time": 30900,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 31500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 195,
+                    "Departure Time": 32400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 39600,
+                    "KM": 40.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 393,
+                    "Departure Time": 39900,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 44100,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 231,
+                    "Departure Time": 45000,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 48000,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 422,
+                    "Departure Time": 50400,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 53400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 257,
+                    "Departure Time": 54300,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 57300,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 467,
+                    "Departure Time": 57600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 62400,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 536,
+                    "Departure Time": 63000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 65400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 579,
+                    "Departure Time": 66000,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 68400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "09:00:00",
+            "spread_over": "10:25:00"
+        },
+        {
+            "trip_number": 21,
+            "trip": [
+                {
+                    "Sl No.": 48,
+                    "Departure Time": 35400,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36000,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 665,
+                    "Departure Time": 36600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS-TVM-KANMLA",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 44700,
+                    "KM": 55.0,
+                    "Running Time": 8100,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 671,
+                    "Departure Time": 45300,
+                    "Departure Place": "MC",
+                    "Route of Operation": "KNMLA-VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 53400,
+                    "KM": 55.0,
+                    "Running Time": 8100,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 154,
+                    "Departure Time": 55800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PSL-KRKM-DVPM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 62400,
+                    "KM": 44.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 334,
+                    "Departure Time": 63000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 69300,
+                    "KM": 43.5,
+                    "Running Time": 6300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:45:00",
+            "spread_over": "09:25:00"
+        },
+        {
+            "trip_number": 22,
+            "trip": [
+                {
+                    "Sl No.": 45,
+                    "Departure Time": 36000,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36300,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 211,
+                    "Departure Time": 36600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 41400,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 402,
+                    "Departure Time": 42300,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 45300,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 235,
+                    "Departure Time": 46200,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 50400,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 423,
+                    "Departure Time": 51000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 55200,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 266,
+                    "Departure Time": 57300,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 60300,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 454,
+                    "Departure Time": 61200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 66000,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 538,
+                    "Departure Time": 66300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 68700,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 580,
+                    "Departure Time": 69300,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 71700,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:35:00",
+            "spread_over": "09:55:00"
+        },
+        {
+            "trip_number": 23,
+            "trip": [
+                {
+                    "Sl No.": 49,
+                    "Departure Time": 36000,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 36600,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 517,
+                    "Departure Time": 36900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 39300,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 682,
+                    "Departure Time": 40800,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 43200,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 643,
+                    "Departure Time": 43800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 51000,
+                    "KM": 45.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 428,
+                    "Departure Time": 53100,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 56100,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 264,
+                    "Departure Time": 56400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 59400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 451,
+                    "Departure Time": 60900,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 63900,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 293,
+                    "Departure Time": 65400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 68400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 479,
+                    "Departure Time": 69600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 75000,
+                    "KM": 33.7,
+                    "Running Time": 5400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 116,
+                    "Departure Time": 75300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 75900,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:55:00",
+            "spread_over": "11:05:00"
+        },
+        {
+            "trip_number": 24,
+            "trip": [
+                {
+                    "Sl No.": 50,
+                    "Departure Time": 36600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 37200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 214,
+                    "Departure Time": 37500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 43800,
+                    "KM": 40.0,
+                    "Running Time": 6300,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 406,
+                    "Departure Time": 44100,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 48300,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 240,
+                    "Departure Time": 48600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 52800,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 390,
+                    "Departure Time": 54600,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 60600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 529,
+                    "Departure Time": 61200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 63600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 572,
+                    "Departure Time": 64200,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 66600,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:50:00",
+            "spread_over": "08:20:00"
+        },
+        {
+            "trip_number": 25,
+            "trip": [
+                {
+                    "Sl No.": 29,
+                    "Departure Time": 36600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 37200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 654,
+                    "Departure Time": 37800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 45000,
+                    "KM": 45.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 412,
+                    "Departure Time": 46800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 49800,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 244,
+                    "Departure Time": 50100,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 54300,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 438,
+                    "Departure Time": 56700,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 60900,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 279,
+                    "Departure Time": 61200,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 65400,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 472,
+                    "Departure Time": 66300,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 72600,
+                    "KM": 40.0,
+                    "Running Time": 6300,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 114,
+                    "Departure Time": 73200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 73800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:55:00",
+            "spread_over": "10:20:00"
+        },
+        {
+            "trip_number": 26,
+            "trip": [
+                {
+                    "Sl No.": 51,
+                    "Departure Time": 37200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 37800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 653,
+                    "Departure Time": 38400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 45000,
+                    "KM": 45.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 410,
+                    "Departure Time": 46800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 52200,
+                    "KM": 37.2,
+                    "Running Time": 5400,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 55,
+                    "Departure Time": 54300,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 54900,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 655,
+                    "Departure Time": 55800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "PVR-VZM-BYPASS",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 62400,
+                    "KM": 45.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 662,
+                    "Departure Time": 63000,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 70200,
+                    "KM": 45.0,
+                    "Running Time": 7200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 95,
+                    "Departure Time": 70500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 71100,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:05:00",
+            "spread_over": "09:25:00"
+        },
+        {
+            "trip_number": 27,
+            "trip": [
+                {
+                    "Sl No.": 52,
+                    "Departure Time": 38400,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 39000,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 219,
+                    "Departure Time": 39600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 45600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 658,
+                    "Departure Time": 46800,
+                    "Departure Place": "MC",
+                    "Route of Operation": "VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 54600,
+                    "KM": 52.0,
+                    "Running Time": 7800,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 204,
+                    "Departure Time": 56400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 61800,
+                    "KM": 33.7,
+                    "Running Time": 5400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 387,
+                    "Departure Time": 62400,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 67200,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 76,
+                    "Departure Time": 67500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 68100,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:25:00",
+            "spread_over": "08:15:00"
+        },
+        {
+            "trip_number": 28,
+            "trip": [
+                {
+                    "Sl No.": 672,
+                    "Departure Time": 39000,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-NTA",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 46200,
+                    "KM": 43.5,
+                    "Running Time": 7200,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 413,
+                    "Departure Time": 47400,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 51600,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 249,
+                    "Departure Time": 51900,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 56100,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 442,
+                    "Departure Time": 58500,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 62700,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 287,
+                    "Departure Time": 63600,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 66600,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 473,
+                    "Departure Time": 67800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 73200,
+                    "KM": 33.7,
+                    "Running Time": 5400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 107,
+                    "Departure Time": 73800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 74400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:15:00",
+            "spread_over": "09:50:00"
+        },
+        {
+            "trip_number": 29,
+            "trip": [
+                {
+                    "Sl No.": 19,
+                    "Departure Time": 39600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 40200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 156,
+                    "Departure Time": 40800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 45300,
+                    "KM": 33.7,
+                    "Running Time": 4500,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 659,
+                    "Departure Time": 45600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 52200,
+                    "KM": 45.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 270,
+                    "Departure Time": 52500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 57000,
+                    "KM": 33.7,
+                    "Running Time": 4500,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 444,
+                    "Departure Time": 58800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 61800,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 283,
+                    "Departure Time": 62400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 65400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 699,
+                    "Departure Time": 66000,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 70800,
+                    "KM": 36.5,
+                    "Running Time": 4800,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:10:00",
+            "spread_over": "08:40:00"
+        },
+        {
+            "trip_number": 30,
+            "trip": [
+                {
+                    "Sl No.": 684,
+                    "Departure Time": 41100,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-PVR-VZM",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 48600,
+                    "KM": 48.5,
+                    "Running Time": 7500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 685,
+                    "Departure Time": 49200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "VZM-PVR",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 55800,
+                    "KM": 45.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 686,
+                    "Departure Time": 57600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH-TVM-VZM-PVR-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 70800,
+                    "KM": 81.5,
+                    "Running Time": 13200,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:45:00",
+            "spread_over": "08:15:00"
+        },
+        {
+            "trip_number": 31,
+            "trip": [
+                {
+                    "Sl No.": 700,
+                    "Departure Time": 41400,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 44700,
+                    "KM": 20.5,
+                    "Running Time": 3300,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 701,
+                    "Departure Time": 45300,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 47700,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 93,
+                    "Departure Time": 48000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 48600,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 720,
+                    "Departure Time": 49200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 52200,
+                    "KM": 20.5,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 570,
+                    "Departure Time": 53400,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 56400,
+                    "KM": 17.0,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 583,
+                    "Departure Time": 58200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "ALMP-DVPM",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 63600,
+                    "KM": 39.0,
+                    "Running Time": 5400,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 315,
+                    "Departure Time": 63900,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 68700,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 541,
+                    "Departure Time": 69000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "VLRD",
+                    "Arrival Time": 71400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 553,
+                    "Departure Time": 72000,
+                    "Departure Place": "VLRD",
+                    "Route of Operation": "KRKM",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 74400,
+                    "KM": 17.0,
+                    "Running Time": 2400,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 117,
+                    "Departure Time": 75600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 76200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:30:00",
+            "spread_over": "09:40:00"
+        },
+        {
+            "trip_number": 32,
+            "trip": [
+                {
+                    "Sl No.": 690,
+                    "Departure Time": 42600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "KLKV-PVR-VZM-BYPASS-TVM-NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 55200,
+                    "KM": 81.5,
+                    "Running Time": 12600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 265,
+                    "Departure Time": 55500,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 60600,
+                    "KM": 33.7,
+                    "Running Time": 5100,
+                    "Terminal Gap": 2100
+                },
+                {
+                    "Sl No.": 458,
+                    "Departure Time": 62700,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 65700,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 296,
+                    "Departure Time": 66900,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 69900,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 485,
+                    "Departure Time": 70500,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 75300,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 113,
+                    "Departure Time": 75600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 76200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:25:00",
+            "spread_over": "09:20:00"
+        },
+        {
+            "trip_number": 33,
+            "trip": [
+                {
+                    "Sl No.": 5,
+                    "Departure Time": 45900,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 46500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 237,
+                    "Departure Time": 46800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 53400,
+                    "KM": 40.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 379,
+                    "Departure Time": 54000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 60600,
+                    "KM": 40.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 282,
+                    "Departure Time": 62400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 68400,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 484,
+                    "Departure Time": 69000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH-KLKV",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 76200,
+                    "KM": 43.5,
+                    "Running Time": 7200,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:55:00",
+            "spread_over": "08:25:00"
+        },
+        {
+            "trip_number": 34,
+            "trip": [
+                {
+                    "Sl No.": 44,
+                    "Departure Time": 46800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 47400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 271,
+                    "Departure Time": 48000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 54000,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 433,
+                    "Departure Time": 54900,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 59100,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 273,
+                    "Departure Time": 59400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 63600,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 468,
+                    "Departure Time": 66000,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 70200,
+                    "KM": 27.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 305,
+                    "Departure Time": 71400,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 74400,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 492,
+                    "Departure Time": 75000,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 79800,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 112,
+                    "Departure Time": 80400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 81000,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:15:00",
+            "spread_over": "09:30:00"
+        },
+        {
+            "trip_number": 35,
+            "trip": [
+                {
+                    "Sl No.": 54,
+                    "Departure Time": 47700,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 48300,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 241,
+                    "Departure Time": 48600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 54600,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 435,
+                    "Departure Time": 55200,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 61800,
+                    "KM": 40.0,
+                    "Running Time": 6600,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 288,
+                    "Departure Time": 63600,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 69000,
+                    "KM": 33.7,
+                    "Running Time": 5400,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 482,
+                    "Departure Time": 70500,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 73500,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 308,
+                    "Departure Time": 73800,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 76800,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 2400
+                },
+                {
+                    "Sl No.": 481,
+                    "Departure Time": 79200,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 83400,
+                    "KM": 33.7,
+                    "Running Time": 4200,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 123,
+                    "Departure Time": 84900,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 85500,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:30:00",
+            "spread_over": "10:30:00"
+        },
+        {
+            "trip_number": 36,
+            "trip": [
+                {
+                    "Sl No.": 38,
+                    "Departure Time": 48600,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 49200,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 246,
+                    "Departure Time": 50400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 56400,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 622,
+                    "Departure Time": 58200,
+                    "Departure Place": "MC",
+                    "Route of Operation": "PTM-TVM-NTA-MVKV",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 66000,
+                    "KM": 48.5,
+                    "Running Time": 7800,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 280,
+                    "Departure Time": 67800,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "MC",
+                    "Arrival Time": 73800,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 489,
+                    "Departure Time": 74400,
+                    "Departure Place": "MC",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 80400,
+                    "KM": 40.0,
+                    "Running Time": 6000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 108,
+                    "Departure Time": 81000,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 81300,
+                    "KM": 3.5,
+                    "Running Time": 300,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:45:00",
+            "spread_over": "09:05:00"
+        },
+        {
+            "trip_number": 37,
+            "trip": [
+                {
+                    "Sl No.": 57,
+                    "Departure Time": 49200,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 49800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1500
+                },
+                {
+                    "Sl No.": 248,
+                    "Departure Time": 51300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 56100,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 439,
+                    "Departure Time": 56700,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "NTA",
+                    "Arrival Time": 59700,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 276,
+                    "Departure Time": 60000,
+                    "Departure Place": "NTA",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 63000,
+                    "KM": 20.7,
+                    "Running Time": 3000,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 466,
+                    "Departure Time": 63600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 68400,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 309,
+                    "Departure Time": 70200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 75000,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 498,
+                    "Departure Time": 75600,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 80100,
+                    "KM": 33.7,
+                    "Running Time": 4500,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 120,
+                    "Departure Time": 80400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 81000,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "07:55:00",
+            "spread_over": "08:50:00"
+        },
+        {
+            "trip_number": 38,
+            "trip": [
+                {
+                    "Sl No.": 56,
+                    "Departure Time": 49500,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 50100,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 1200
+                },
+                {
+                    "Sl No.": 91,
+                    "Departure Time": 51300,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 51900,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 900
+                },
+                {
+                    "Sl No.": 63,
+                    "Departure Time": 52800,
+                    "Departure Place": "PSL",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 53400,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": 300
+                },
+                {
+                    "Sl No.": 254,
+                    "Departure Time": 53700,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "CSTN",
+                    "Arrival Time": 61200,
+                    "KM": 42.0,
+                    "Running Time": 7500,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 453,
+                    "Departure Time": 61800,
+                    "Departure Place": "CSTN",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 69600,
+                    "KM": 42.0,
+                    "Running Time": 7800,
+                    "Terminal Gap": 1800
+                },
+                {
+                    "Sl No.": 304,
+                    "Departure Time": 71400,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "TVM",
+                    "Arrival Time": 76200,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 494,
+                    "Departure Time": 76800,
+                    "Departure Place": "TVM",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "KLKV",
+                    "Arrival Time": 81600,
+                    "KM": 33.7,
+                    "Running Time": 4800,
+                    "Terminal Gap": 600
+                },
+                {
+                    "Sl No.": 121,
+                    "Departure Time": 82200,
+                    "Departure Place": "KLKV",
+                    "Route of Operation": "NH",
+                    "Arrival Place": "PSL",
+                    "Arrival Time": 82800,
+                    "KM": 3.5,
+                    "Running Time": 600,
+                    "Terminal Gap": null
+                }
+            ],
+            "steering_duty": "08:10:00",
+            "spread_over": "09:15:00"
+        }
+    ]
+}

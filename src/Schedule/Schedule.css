@@ -1,0 +1,79 @@
+.header {
+    display: flex;
+    gap: 30px;
+}
+
+.select-wrapper {
+    border-radius: 10px;
+    padding: 0px 15px;
+    display: flex;
+    border: 1px solid #bdbdbd;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+
+}
+
+.select-wrapper .select-date {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    border: none;
+    background: transparent;
+    padding: 0;
+    border-radius: 10px;
+    padding: 0px 40px 0px 20px;
+    height: 100%;
+    flex: 1;
+    background-image: url('../assets/arrow.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20px;
+}
+
+.trip-wrapper h2 {
+    margin-top: 30px;
+}
+.trip-wrapper table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+.trip-wrapper tr {
+    background: #fff;
+}
+.trip-wrapper .table-head {
+    background: #EAEAEA;
+}
+.trip-wrapper th, 
+.trip-wrapper td {
+    padding: 15px ;
+    padding: 15px ;
+    text-align: left;
+    font-size: 16px;
+    border-bottom: 15px solid #F9F9F9;
+}
+.trip-wrapper th {
+    background: transparent;
+    font-weight: 600;
+}
+
+.trip-wrapper .trip-statistics {
+    display: flex;
+    gap: 20px;
+}
+
+.trip-wrapper .trip-statistics p {
+    background: #EAEAEA;
+    padding: 20px;
+    flex:1;
+    font-size: 18px; 
+}
+
+.trip-wrapper .trip-statistics span{
+    font-size: 20px;
+    margin-left: 5px;
+    font-weight: 700;
+}

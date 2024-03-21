@@ -1,0 +1,29 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: calc(100vh - 90px);
+    justify-content: space-between;
+    padding: 30px 30px 50px 30px;
+    box-shadow: 4px 0px 20px rgba(0, 0, 0, 0.05);
+}
+
+nav div {
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+
+nav a {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-decoration: none;
+    color: #334D6E;
+    font-size: 18px;
+}
+
+nav a img {
+    width: 20px;
+    height: 20px;
+}
